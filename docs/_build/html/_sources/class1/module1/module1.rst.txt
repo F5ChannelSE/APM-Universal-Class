@@ -1,5 +1,5 @@
-Module – Deploy a Standalone F5 BIG-IP Application Delivery Controller in Azure
-=================================================================================
+Module – Deploy Universal Access Policies with F5 BIG-IP Access Policy Manager
+=====================================================================++=======
 
 Mod 1
 
