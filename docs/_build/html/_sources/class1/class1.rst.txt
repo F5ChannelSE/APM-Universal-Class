@@ -13,4 +13,4 @@ through configuration steps for the following common use cases:
    :maxdepth: 1
    :glob:
 
-   module*/lab*
+   module*/module*
